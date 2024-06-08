@@ -3,7 +3,7 @@
 Aldi Hermansyah</h1>
 <h3 align="center">There is nothing impossible</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0e75b6&style=flat" alt="miya3333" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" /> </p>
 
 <p align="center">🌱 I’m currently learning **UI/UX & Front-End** </p>
 
