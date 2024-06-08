@@ -8,11 +8,11 @@ Aldi Hermansyah
 
 
 
-<p align="center">🌱 I’m currently learning UI/UX & Front-End </p>
+<h1 align="center">🌱 I’m currently learning UI/UX & Front-End </h1>
 
-<p align="center">💬 Ask me about something Contact me on Instagram  </p>
+<h2 align="center">💬 Ask me about something Contact me on Instagram  </h2>
 
-<p align="center">⚡ Fun fact I like watching movie 🍿 and listening music 🎶</p>
+<h3 align="center">⚡ Fun fact I like watching movie 🍿 and listening music 🎶</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
