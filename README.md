@@ -7,7 +7,7 @@ Aldi Hermansyah</h1>
 
 - 🌱 I’m currently learning **UI/UX & Front-End**
 
-- 💬 Ask me about **something?** Contact me in Instagram 
+- 💬 Ask me about **something?** Contact me on Instagram 
 
 - ⚡ Fun fact **I like watching movie and listening music.**
 
