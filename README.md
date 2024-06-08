@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm
+<h1 align="center">Hello 👋
+<br>
+I'm
 <br>
 Aldi Hermansyah
 </h1>
