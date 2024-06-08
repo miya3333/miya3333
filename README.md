@@ -4,17 +4,16 @@ Aldi Hermansyah
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" /> </p>
 </h1>
-<h3 align="center">There is nothing impossible</h3>
 
+<h32 align="center">There is nothing impossible</h2>
 
+<h3 align="center">🌱 I’m currently learning UI/UX & Front-End </h1>
 
-<h1 align="center">🌱 I’m currently learning UI/UX & Front-End </h1>
-
-<h2 align="center">💬 Ask me about something Contact me on Instagram  </h2>
+<h3 align="center">💬 Ask me about something Contact me on Instagram  </h2>
 
 <h3 align="center">⚡ Fun fact I like watching movie 🍿 and listening music 🎶</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://instagram.com/reh.idla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reh.idla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aldi-hermansyah-3a88982b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldi-hermansyah-3a88982b1" height="30" width="40" /></a>
