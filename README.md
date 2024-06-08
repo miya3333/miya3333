@@ -5,7 +5,7 @@ Aldi Hermansyah
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" /> </p>
 
 <h2 align="center">There is nothing impossible</h2>
-<p align="center">🌱 I’m currently learning `UI/UX & Front-End`</p>
+🌱 I’m currently learning `UI/UX & Front-End`
 <p align="center">💬 Ask me about `something?` Contact me on Instagram</p>
 <p align="center">⚡ Fun fact I like `watching movie 🍿` and `listening music 🎶`</p>
 <br>
