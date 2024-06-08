@@ -9,9 +9,9 @@ Aldi Hermansyah
 
 <h4 align="center">🌱 I’m currently learning UI/UX & Front-End </h4>
 
-<h3 align="center">💬 Ask me about something Contact me on Instagram  </h3>
+<h4 align="center">💬 Ask me about something Contact me on Instagram  </h4>
 
-<h3 align="center">⚡ Fun fact I like watching movie 🍿 and listening music 🎶</h3>
+<h4 align="center">⚡ Fun fact I like watching movie 🍿 and listening music 🎶</h4>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
