@@ -6,7 +6,7 @@ Aldi Hermansyah
 
 <h2 align="center">There is nothing impossible</h2>
 ### 🌱 I’m currently learning `UI/UX & Front-End`
-### 💬 Ask me about `something?` Contact me on Instagram</p>
+### 💬 Ask me about `something?` Contact me on Instagram
 <p align="center">⚡ Fun fact I like `watching movie 🍿` and `listening music 🎶`</p>
 <br>
 
