@@ -5,7 +5,7 @@ Aldi Hermansyah
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" /> </p>
 </h1>
 
-<h32 align="center">There is nothing impossible</h2>
+<h2 align="center">There is nothing impossible</h2>
 
 <h3 align="center">🌱 I’m currently learning UI/UX & Front-End </h1>
 
