@@ -31,6 +31,7 @@ I'm Aldi Hermansyah
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></p>
 <br>
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miya3333&show_icons=true&locale=en&layout=compact" alt="miya3333" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=miya3333&show_icons=true&locale=en" alt="miya3333" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miya3333&show_icons=true&locale=en&layout=compact" alt="miya3333" /> </p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=miya3333&show_icons=true&locale=en" alt="miya3333" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miya3333&" alt="miya3333" /></p>
