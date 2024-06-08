@@ -1,4 +1,4 @@
-<h1 align="center" color="#0090ff">Hi 👋 I'm
+<h1 align="center">Hi 👋 I'm
 <br>
 Aldi Hermansyah</h1>
 <h3 align="center">There is nothing impossible</h3>
