@@ -24,4 +24,7 @@ Aldi Hermansyah</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miya3333&show_icons=true&locale=en" alt="miya3333" /></p>
 
+![miya3333 GitHub stats](https://github-readme-stats.vercel.app/api?username=miya3333&show_icons=true&theme=gruvbox)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miya3333&" alt="miya3333" /></p>
