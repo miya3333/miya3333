@@ -23,6 +23,6 @@ Aldi Hermansyah</h1>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miya3333&show_icons=true&locale=en&layout=compact" alt="miya3333" /></p>
 
-<p>&nbsp;<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=miya3333&show_icons=true&locale=en" alt="miya3333" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miya3333&show_icons=true&locale=en" alt="miya3333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miya3333&" alt="miya3333" /></p>
