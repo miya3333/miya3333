@@ -9,7 +9,7 @@ Aldi Hermansyah</h1>
 
 - 💬 Ask me about **something?** Contact me on Instagram 
 
-- ⚡ Fun fact **I like watching movie and listening music.**
+- ⚡ Fun fact **I like watching movie and listening music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
