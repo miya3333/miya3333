@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 I'm
 <br>
 Aldi Hermansyah
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" /> </p>
 </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" /> </p>
 
 <h2 align="center">There is nothing impossible</h2>
 <h4 align="center">🌱 I’m currently learning UI/UX & Front-End </h4>
