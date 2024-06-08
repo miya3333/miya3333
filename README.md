@@ -5,11 +5,11 @@ Aldi Hermansyah</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0e75b6&style=flat" alt="miya3333" /> </p>
 
-- 🌱 I’m currently learning **UI/UX & Front-End**
+🌱 I’m currently learning **UI/UX & Front-End**
 
-- 💬 Ask me about **something?** Contact me on Instagram 
+💬 Ask me about **something?** Contact me on Instagram 
 
-- ⚡ Fun fact **I like watching movie and listening music**
+⚡ Fun fact **I like watching movie and listening music**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
