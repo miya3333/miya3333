@@ -7,7 +7,7 @@ Aldi Hermansyah
 
 <h2 align="center">There is nothing impossible</h2>
 
-<h2 align="center">🌱 I’m currently learning UI/UX & Front-End </h2>
+<h4 align="center">🌱 I’m currently learning UI/UX & Front-End </h4>
 
 <h3 align="center">💬 Ask me about something Contact me on Instagram  </h3>
 
