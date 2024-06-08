@@ -35,7 +35,3 @@ I'm Aldi Hermansyah
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=miya3333&show_icons=true&locale=en" alt="miya3333" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miya3333&" alt="miya3333" /></p>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
