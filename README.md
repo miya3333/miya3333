@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋
 <br>
-I'm
-<br>
-Aldi Hermansyah
+I'm Aldi Hermansyah
 </h1>
 <h2 align="center">There is nothing impossible</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" /> </p>
