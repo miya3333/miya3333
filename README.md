@@ -7,7 +7,7 @@ I'm Aldi Hermansyah
 
 <p align="center">🌱 I’m currently learning UI/UX & Front-End</p>
 <p align="center">💬 Ask me about something? Contact me on Instagram</p>
-<p align="center">⚡ Fun fact I like watching movie 🍿 and listening music 🎶</p>
+<p align="center">⚡ Fun fact I like watching Movie 🍿 and listening Music 🎶</p>
 <br>
 
 <h2 align="center">Connect with me:</h2>
