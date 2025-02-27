@@ -29,7 +29,7 @@ I'm Aldi Hermansyah
 </p>
 
 ### ⚡ Recent GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AryaWiratama26&theme=react-dark)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=miya3333&theme=react-dark)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
