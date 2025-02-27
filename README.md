@@ -27,3 +27,15 @@ I'm Aldi Hermansyah
 <a href="https://instagram.com/reh.idla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reh.idla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aldi-hermansyah-3a88982b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldi-hermansyah-3a88982b1" height="30" width="40" /></a>
 </p>
+
+### ⚡ Recent GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AryaWiratama26&theme=react-dark)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snakes" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
