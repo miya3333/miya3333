@@ -7,6 +7,13 @@ I'm Aldi Hermansyah
 <p align="center">🌱 I’m currently learning UI/UX & Front-End</p>
 <p align="center">💬 Ask me about something? Contact me on Instagram</p>
 <p align="center">⚡ Fun fact I like watching Movie 🍿 and listening Music 🎶</p>
+
+---
+
+<p align="center">I love creating little projects to sharpen my skills and explore new ideas 🎨</p>
+<p align="center">They all find a home here on GitHub, like a diary of my coding journey 📚 — a scrapbook of experiments and ideas ✨</p>
+<p align="center">Each repository marks a step forward in mastering design and development, a way to reflect on how far I’ve come while keeping the motivation brewing ☕ and plotting my next adventure 🔍</p>
+
 <br>
 
 <h2 align="center">I Learn Languages and Tools:</h2>
@@ -24,6 +31,7 @@ I'm Aldi Hermansyah
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></p>
 
 <br>
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://instagram.com/reh_idla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reh.idla" height="30" width="40" /></a>
