@@ -37,4 +37,4 @@ Each step fuels my motivation ☕ while I plan the next adventure 🔍.
 
 ---
 
-<p align="center">Thanks for visiting my profile! 🚀</p>
+<h1 align="center">Thanks for visiting my profile! 🚀</h1>
