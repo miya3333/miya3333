@@ -1,7 +1,5 @@
 <h1>Hello 👋, I'm Aldi Hermansyah</h1>
 
-<img src="https://komarev.com/ghpvc/?username=miya3333&label=Profile%20views&color=0090ff&style=flat" alt="miya3333" />
-
 🌱 Currently learning <strong>UI/UX & Front-End Development</strong> <br>
 💬 Got questions? Reach out on <a href="https://instagram.com/reh_idla" target="_blank">Instagram</a> <br>
 ⚡ Fun fact: I love watching movies 🍿 & listening to music 🎶
