@@ -33,7 +33,7 @@ Each step fuels my motivation ☕ while I plan the next adventure 🔍.
 ### 🤝 Connect with Me
 
 <a href="https://instagram.com/reh_idla" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aldi-hermansyah-3a88982b1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldi-hermansyah-3a88982b1" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/aldihermansyah9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldi-hermansyah-3a88982b1" height="30" width="40" /></a>
 
 ---
 
